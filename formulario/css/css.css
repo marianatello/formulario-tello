@@ -1,0 +1,85 @@
+body{
+    font-size: 50px;
+    font-family: Arial;
+    text-align: none;
+    text-decoration: none;
+    padding: auto;
+    background-color: blueviolet;
+}
+.fm{
+    text-align: none;
+}
+form{
+    font-size: 2%;
+	width:200px;
+	padding:50px;
+	border-radius:30px;
+	margin:auto;
+	background-color: white;
+}
+.nombre{
+    font-size: 15px;
+    font-family:sans-serif;
+    width: 122px;
+	font-weight:bold;
+	display:inline-block;
+    
+}
+div{
+    font-size: 50px;
+    font-family: Arial;
+    width: 122px;
+	font-weight:bold;
+	display:inline-block;
+    outline: none;
+}
+.campos{
+    font-size: 8px;
+    font-family: Arial;
+    width: 500px;
+	font-weight:bold;
+	display:inline-block
+}
+h2{
+    text-align: none;
+    color:blueviolet;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    width: 400px;
+	font-weight:bold;
+	display:inline-block
+}
+p{
+    text-align: center;
+    font-size: 10px;
+    font-family: Arial;
+    width: 200px;
+	font-weight:bold;
+	display:inline-block
+}
+.enviar{
+    color: black;
+    background-color: blueviolet;
+    padding: auto;
+    text-decoration: none;
+    border-radius: 5px;
+    width: 200;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.enviar :hover{
+    cursor: pointer;
+
+}
+.asterisco{
+    content: "*";
+    color: blueviolet;
+}
+.cuadro{
+    border: 1px solid blueviolet;
+    display: block;
+}
